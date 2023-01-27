@@ -1,0 +1,5 @@
+login.py
+config/*
+instabot/*
+*.log
+*.txt
